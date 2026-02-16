@@ -150,7 +150,7 @@
     "filesize": "9.0.11",
     "firstline": "2.0.2",
     "focus-trap-react": "10.3.1",
-    "form-data": "4.0.1",
+    "form-data": "4.0.4",
     "framer-motion": "6.5.1",
     "fs-extra": "11.2.0",
     "fuse.js": "6.5.3",
@@ -292,12 +292,12 @@
     "csv-parse": "5.5.6",
     "danger": "12.3.3",
     "debug": "4.3.7",
-    "electron": "36.3.2",
+    "electron": "36.8.1",
     "electron-builder": "26.0.14",
     "electron-mocha": "13.0.1",
     "endanger": "7.0.4",
     "enquirer": "2.4.1",
-    "esbuild": "0.24.0",
+    "esbuild": "0.25.0",
     "eslint": "8.56.0",
     "eslint-config-airbnb-typescript-prettier": "5.0.0",
     "eslint-config-prettier": "8.5.0",
@@ -342,7 +342,7 @@
     "wait-on": "8.0.1",
     "webpack": "5.96.1",
     "webpack-cli": "5.1.4",
-    "webpack-dev-server": "5.1.0"
+    "webpack-dev-server": "5.2.1"
   },
   "pnpm": {
     "overrides": {
