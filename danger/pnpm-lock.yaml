@@ -715,8 +715,8 @@ packages:
     resolution: {integrity: sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==}
     engines: {node: '>=0.4'}
 
-  yaml@1.10.2:
-    resolution: {integrity: sha512-r3vXyErRCYJ7wg28yvBY5VSoAF8ZvlcW9/BwUzEtUsjvX/DKs24dIkuwjtuprwJJHsbyUbLApepYTR1BN4uHrg==}
+  yaml@1.10.3:
+    resolution: {integrity: sha512-vIYeF1u3CjlhAFekPPAk2h/Kv4T3mAkMox5OymRiJQB0spDP10LHvt+K7G9Ny6NuuMAb25/6n1qyUjAcGNf/AA==}
     engines: {node: '>= 6'}
 
   zwitch@1.0.5:
@@ -990,7 +990,7 @@ snapshots:
       strip-indent: 3.0.0
       unified: 9.2.2
       unist-util-visit: 2.0.3
-      yaml: 1.10.2
+      yaml: 1.10.3
     transitivePeerDependencies:
       - supports-color
 
@@ -1540,6 +1540,6 @@ snapshots:
 
   xtend@4.0.2: {}
 
-  yaml@1.10.2: {}
+  yaml@1.10.3: {}
 
   zwitch@1.0.5: {}
